@@ -9,6 +9,6 @@ attr_accessor :wheel_size, :wheel_number
   end
 
   def go
-    
+    "vrrrrrrrooom!"
   end
 end
